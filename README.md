@@ -121,22 +121,16 @@ I focus on Wireshark to observe the network traffic, specifically examining ICMP
 <img src="https://imgur.com/C1tCLYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10 In the Azure portal, I access the Network Security Group (NSG) associated with the Ubuntu VM and disable incoming (inbound) ICMP traffic.</p>
+10 In the Azure portal, I access the Network Security Group (NSG) associated with the Ubuntu VM and disable incoming (inbound) ICMP traffic.
+</p>
 <br />
 
-<p>
-<img src="https://imgur.com/7nEMAsN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-10Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://imgur.com/0CFxnIb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+11. Returning to the Windows 10 VM, I continue observing the ICMP traffic in Wireshark and the command line ping activity.
 </p>
 <br />
 
