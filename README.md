@@ -104,8 +104,9 @@ Once connected to the Windows 10 VM, I proceed to download and install Wireshark
 <img src="https://imgur.com/QC720cm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+8. While monitoring Wireshark, I observe the ping requests and replies, allowing me to analyze the network traffic.
+Next, I open a command line or PowerShell within the Windows 10 VM and attempt to ping a public website, such as www.google.com.
+I focus on Wireshark to observe the network traffic, specifically examining ICMP traffic related to the ping activity.</p>
 <br />
 
 <p>
