@@ -58,21 +58,7 @@ After successfully creating the VMs, I navigate to the Network Watcher section i
 Within Network Watcher, I observe and analyze the Virtual Network (Vnet), ensuring its settings and connectivity are as intended.</p>
 <br />
 
-<p>
-<img src="https://imgur.com/EGoyzLB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-1Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://imgur.com/6rjNwSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-2Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://imgur.com/L7vRtqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
