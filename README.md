@@ -36,8 +36,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/zbRi6u9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-22Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+1. I log in to the Azure portal and navigate to the section for managing Azure Resource Groups.
+I select the "Create" button to initiate the creation of a new resource group.
+In the creation form, I provide a name for the resource group and choose the desired region and subscription.
+After entering the necessary details, I proceed by clicking on the "Review + Create" button to review the configuration.
+Once the review is complete and there are no errors, I finalize the process by clicking on the "Create" button to create the resource group.
+Next, I move to the Virtual Machines section within the Azure portal.
+I click on the "Create" button to begin creating a new Windows 10 Virtual Machine (VM).
+During the VM creation, I select the previously created resource group, assign a name to the VM, and configure the desired settings.
+While creating the VM, I enable the creation of a new Virtual Network (Vnet) and Subnet.
+After setting up all the necessary options, I proceed by clicking on the "Review + Create" button to review the VM configuration.
+Once the review is complete, I click on the "Create" button to create the Windows 10 VM.</p>
 <br />
 
 <p>
