@@ -58,14 +58,6 @@ After successfully creating the VMs, I navigate to the Network Watcher section i
 Within Network Watcher, I observe and analyze the Virtual Network (Vnet), ensuring its settings and connectivity are as intended.</p>
 <br />
 
-<p>
-<img src="https://imgur.com/QL6xxYf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-3. To begin, I establish a Remote Desktop connection to the Windows 10 VM I created earlier.
-Once connected to the Windows 10 VM, I proceed to download and install Wireshark, a network protocol analyzer.</p>
-<br />
-
 
 <p>
 <img src="https://imgur.com/8gLgzk4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -73,6 +65,14 @@ Once connected to the Windows 10 VM, I proceed to download and install Wireshark
 <p>
 3. I generated both Window 10 and Linux (Ubuntu) VM map from azure portal.
 </p>
+<br />
+
+<p>
+<img src="https://imgur.com/QL6xxYf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. To begin, I establish a Remote Desktop connection to the Windows 10 VM I created earlier.
+Once connected to the Windows 10 VM, I proceed to download and install Wireshark, a network protocol analyzer.</p>
 <br />
 
 <p>
