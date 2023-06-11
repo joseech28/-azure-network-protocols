@@ -53,8 +53,9 @@ Once the review is complete, I click on the "Create" button to create the Window
 <img src="https://imgur.com/8GxbZoC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-23Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+2. I repeat the process to create a Linux (Ubuntu) VM, selecting the previously created resource group and Vnet during the VM creation.
+After successfully creating the VMs, I navigate to the Network Watcher section in the Azure portal.
+Within Network Watcher, I observe and analyze the Virtual Network (Vnet), ensuring its settings and connectivity are as intended.</p>
 <br />
 
 <p>
