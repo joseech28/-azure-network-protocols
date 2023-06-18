@@ -164,8 +164,8 @@ Analyze the SSH traffic between the Windows 10 VM and the Ubuntu VM.</p>
 <img src="https://imgur.com/YHW3z2h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-16Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+15. Once authenticated, I gain remote access to the command-line interface of the Ubuntu VM.
+From here, I can execute Linux commands, modify system configurations, install software packages, and perform other administrative tasks on the Ubuntu VM.</p>
 <br />
 
 <p>
