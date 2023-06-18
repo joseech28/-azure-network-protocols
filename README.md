@@ -139,7 +139,8 @@ I focus on Wireshark to observe the network traffic, specifically examining ICMP
 <img src="https://imgur.com/Q9RD79X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+12. If the re-enabled ICMP traffic is functioning correctly, I can verify its successful restoration by observing both Wireshark and the command line ping activity.
+Finally, I can stop the ping activity by terminating the command when I have finished observing and analyzing the ICMP traffic.
 </p>
 <br />
 
