@@ -157,8 +157,7 @@ Analyze the SSH traffic between the Windows 10 VM and the Ubuntu VM.</p>
 <img src="https://imgur.com/r8lzW72.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-15Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+14. I establish an SSH connection to the Ubuntu Virtual Machine using its private IP address. By initiating the SSH connection, I can remotely access and control the Ubuntu VM from the Windows 10 VM. This allows me to perform various tasks, execute commands, and manage the Ubuntu VM's configuration.</p>
 <br />
 
 <p>
