@@ -179,8 +179,7 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/dwb0YyG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-18Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+17. By executing the 'exit' command, I signal the termination of the SSH session and disconnect from the Ubuntu VM. This action closes the remote connection and returns me to the command prompt or terminal session of the Windows 10 VM.</p>
 <br />
 
 <p>
