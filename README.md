@@ -131,6 +131,7 @@ I focus on Wireshark to observe the network traffic, specifically examining ICMP
 </p>
 <p>
 11. Returning to the Windows 10 VM, I continue observing the ICMP traffic in Wireshark and the command line ping activity.
+  Simultaneously, I monitor the command line ping activity in the Windows 10 VM to verify that it has resumed functioning.
 </p>
 <br />
 
