@@ -196,7 +196,7 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/RZ26onD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-20Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+19. I switch back to Wireshark and apply a filter to display only DNS traffic. This helps me focus on the DNS-related packets captured by Wireshark.
 </p>
 <br />
 
@@ -204,7 +204,7 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/KUi95aC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-21Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+20. Next, I open a command prompt or PowerShell window within my Windows 10 VM. From there, I use the "nslookup" command to perform DNS queries for both "google.com" and "disney.com" to retrieve their respective IP addresses. As I execute these commands, I observe the DNS traffic being displayed in Wireshark. The captured packets include DNS queries and responses exchanged between my Windows 10 VM and the DNS server, revealing the DNS resolution process and the IP addresses associated with the queried domain names.
 </p>
 <br />
 
