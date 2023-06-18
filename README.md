@@ -218,11 +218,10 @@ From here, I can execute Linux commands, modify system configurations, install s
 <br />
 
 <p>
-<img src="https://imgur.com/zY1bO0k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vCcws0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-21. I return to Wireshark and apply a filter to display only RDP (Remote Desktop Protocol) traffic by specifying the TCP port 3389. By filtering for RDP traffic, I narrow down the captured packets to only those related to the RDP protocol.
-</p>
+ 22. I immediately notice a continuous stream of traffic appearing in Wireshark. The reason behind this non-stop "spamming" of traffic is that the RDP protocol is designed to provide a live stream of data from one computer to another. It constantly transmits data, even when there is no specific activity or interaction occurring between the two machines. This continuous flow of packets allows for a seamless remote desktop experience, as it ensures that the remote desktop session is constantly updated with the latest screen information and user input.</p>
 <br />
 
 
