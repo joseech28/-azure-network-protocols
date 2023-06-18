@@ -186,7 +186,9 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/p5zMmhn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+18. I open a command prompt or PowerShell window within my Windows 10 VM. From there, I run the command "ipconfig /renew" to attempt to obtain a new IP address for my VM. As I execute this command, I switch back to Wireshark and observe the DHCP traffic that starts appearing in the captured packets. The DHCP traffic includes the DHCP Discover, Offer, Request, and Acknowledge messages exchanged between my Windows 10 VM and the DHCP server. This indicates the dynamic IP address allocation process taking place and confirms the communication between the VM and the DHCP server.
+
+
 </p>
 <br />
 
