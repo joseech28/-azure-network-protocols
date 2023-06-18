@@ -172,8 +172,7 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/BRzmWjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-17Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+16. As I observe the SSH traffic in Wireshark, I notice a continuous stream of SSH packets being captured. The traffic appears as a constant flow of data, indicating the ongoing communication between the Windows 10 VM and the Ubuntu VM through the SSH protocol. This continuous stream of SSH traffic is expected since the SSH connection provides a live and interactive session between the two machines.</p>
 <br />
 
 <p>
