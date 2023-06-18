@@ -149,8 +149,8 @@ Finally, I can stop the ping activity by terminating the command when I have fin
 <img src="https://imgur.com/1xeVYzh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-14Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+13. Upon returning to Wireshark, I apply a filter to display only SSH traffic. This allows me to focus specifically on the Secure Shell (SSH) protocol and its related network traffic. By applying the filter, I can:
+Analyze the SSH traffic between the Windows 10 VM and the Ubuntu VM.</p>
 <br />
 
 <p>
