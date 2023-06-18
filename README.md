@@ -221,7 +221,9 @@ From here, I can execute Linux commands, modify system configurations, install s
 <img src="https://imgur.com/vCcws0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 22. I immediately notice a continuous stream of traffic appearing in Wireshark. The reason behind this non-stop "spamming" of traffic is that the RDP protocol is designed to provide a live stream of data from one computer to another. It constantly transmits data, even when there is no specific activity or interaction occurring between the two machines. This continuous flow of packets allows for a seamless remote desktop experience, as it ensures that the remote desktop session is constantly updated with the latest screen information and user input.</p>
+ 22. I immediately notice a continuous stream of traffic appearing in Wireshark. The reason behind this non-stop "spamming" of traffic is that the RDP protocol is designed to provide a live stream of data from one computer to another. It constantly transmits data, even when there is no specific activity or interaction occurring between the two machines. This continuous flow of packets allows for a seamless remote desktop experience, as it ensures that the remote desktop session is constantly updated with the latest screen information and user input. In conclusion, the non-stop RDP traffic observed in Wireshark is a characteristic of the protocol's design to provide a continuous and interactive remote desktop experience. The constant stream of packets allows for seamless screen sharing and user interaction between the client and server, ensuring a smooth remote desktop session.
+
+\</p>
 <br />
 
 
